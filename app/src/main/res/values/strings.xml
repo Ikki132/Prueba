@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Prueba</string>
+
+    <string name="tv1">Ingrese dos numeros</string>
+    <string name="tf1">Ingrese un valor</string>
+    <string name="tf2">Ingrese un valor</string>
+    <string name="btnsumar">Sumar</string>
+    <string name="btnrestar">Restar</string>
+    <string name="btnmultiplicar">Multiplicar</string>
+    <string name="btndividir">Dividir</string>
+    <string name="resultado">Resultado</string>
+    <string name="resulsuma">Resultado Suma</string>
+    <string name="regrsar">Regresar</string>
+    <string name="resulresta">Resultado Resta</string>
+    <string name="regresar">Regresar</string>
+</resources>
